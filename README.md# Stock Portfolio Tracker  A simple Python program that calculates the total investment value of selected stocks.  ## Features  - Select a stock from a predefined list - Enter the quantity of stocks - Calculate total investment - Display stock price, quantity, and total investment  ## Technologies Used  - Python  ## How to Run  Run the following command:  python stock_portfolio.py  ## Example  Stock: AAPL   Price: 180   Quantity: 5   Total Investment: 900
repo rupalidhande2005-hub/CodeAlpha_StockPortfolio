@@ -1,0 +1,27 @@
+# Stock Portfolio Tracker
+
+A simple Python program that calculates the total investment value of selected stocks.
+
+## Features
+
+- Select a stock from a predefined list
+- Enter the quantity of stocks
+- Calculate total investment
+- Display stock price, quantity, and total investment
+
+## Technologies Used
+
+- Python
+
+## How to Run
+
+Run the following command:
+
+python stock_portfolio.py
+
+## Example
+
+Stock: AAPL  
+Price: 180  
+Quantity: 5  
+Total Investment: 900
